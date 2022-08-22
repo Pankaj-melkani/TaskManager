@@ -101,3 +101,97 @@ position: relative; top: 10px;
 margin-top: -20px;
 
 
+
+
+
+Cassssskfowjfjan
+
+
+
+
+padding: 0;
+
+margin: 0;
+
+}
+
+body(
+
+background: url(neon-future-game-pad-background-vector-35868740.jpeg) no-repeat center center fixed;
+
+background-size: cover;
+
+}
+
+h1 {
+
+position: absolute;
+
+top: 45vh; left: 1vw;
+
+font-size: 3rem;
+
+font-weight: bolder; background: Linear-gradient(to bottom right,rgb(13, 211, 242), rgb(255, 188, 192) color: transparent;
+
+);
+
+-webkit-background-clip: text;
+
+position: absolute;
+
+top: 52vh;
+
+left: 1vw;
+
+font-size: 1em;
+
+font-weight: bolder;
+
+background: linear-gradient(to bottom right,rgb(13, 211, 242), rgb(255, 188, 192) -webkit-background-clip: text; color: transparent;
+
+#game(
+
+width: 400px;
+
+height: 500px; border: 3px solid black;
+
+border-color: rgb(0, 0, 0);
+
+border-radius: 10px; position: absolute; left: 35vw; overflow: hidden; background-color: rgba(254, 254, 254, 0.97);
+
+top: 29vh;
+
+}
+
+
+
+#character(
+
+width: 20px;
+
+height: 20px; background-color: rgb(229, 121, 193); border: 2px solid black; border-radius: 50%; position: relative; z-index: 1000000;
+
+top: 400px;
+
+left: 190px;
+
+.block{
+
+width: 400px;
+
+height: 20px; background-color: black; position: relative; margin-top: -20px; background: linear-gradient(to bottom right,rgb(13, 211, 242), rgb(255, 188, 192) -webkit-background-clip: border-box;
+
+top: 100px;
+
+color: transparent;
+
+}
+
+.hole(
+
+width: 40px;
+
+height: 20px; margin-top: -20px;
+
+
+
